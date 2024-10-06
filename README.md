@@ -30,6 +30,13 @@
 ![JPA](https://img.shields.io/badge/JPA-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
 ![springsecurity](https://img.shields.io/badge/Spring%20Security-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
 
+<div><h1>* Deploy</h1></div>
+
+
+![awselasticbeanstalk](https://img.shields.io/badge/Aws%20Elastic%20Beanstalk-F15F5F.svg?style=for-the-badge&logo=aws&logoColor=white)
+![docker](https://img.shields.io/badge/Docker-007ACC.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+
 
 <div><h1>* Version Control </h1></div>
 
@@ -40,7 +47,7 @@
 <div><h1>* Development Tools</h1></div>
 
 ![intellijidea](https://img.shields.io/badge/intellij%20idea-000000.svg?style=for-the-badge&logo=intellijidea&logoColor=white)
-![github](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=VisualStudioCode&logoColor=white)
+![visualstudiocode](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=VisualStudioCode&logoColor=white)
 
 
 
