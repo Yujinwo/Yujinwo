@@ -8,6 +8,7 @@
 ![html5](https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)
 ![javascript](https://img.shields.io/badge/java%20script-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white)
+![react](https://img.shields.io/badge/react-1572B6.svg?style=for-the-badge&logo=react&logoColor=white)
 <div><h1>* Template</h1></div>
 
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-6DB33F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white)
